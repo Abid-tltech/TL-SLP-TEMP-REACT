@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.backgroundImg {
+  background-image: url("./images/image\ copy.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.zoom {
+  zoom: 85%;
+}
+.content-container {
+  flex-grow: 1;
+  width: 100%;
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+.carousel-container {
+  width: 400px;
+  height: 80%;
+  display: flex;
+}
