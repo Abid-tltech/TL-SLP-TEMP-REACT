@@ -31,7 +31,7 @@ function App() {
   // <======================================== NOTES END ==============================================>
   return (
     <>
-      <div className="backgroundImg flex justify-center w-full h-screen  ">
+      <div className="backgroundImg flex justify-center w-full  h-screen ">
         {/* <==================== Webiste link as sticky ====================> */}
         <div className="globe absolute top-[90vh] left-10 hidden md:block">
           <Tooltip title="Visit Our Site" placement="right-start" arrow>

@@ -49,7 +49,7 @@ const BasicSlider = () => {
             >
               <img
                 src={slide}
-                className="carousel-image w-full h-auto md:h-[690px]"
+                className="carousel-image w-full h-auto md:h-[740px]"
                 alt={`Slide ${index + 1}`}
               />
             </div>

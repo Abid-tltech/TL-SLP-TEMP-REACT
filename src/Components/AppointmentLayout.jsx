@@ -189,7 +189,7 @@ const AppointmentLayout = () => {
   return (
     <>
       <Box
-        className={'boxx w-[285px] md:w-[480px] rounded-md'}
+        className={'boxx w-[285px] md:w-[480px] md:h-[740px] rounded-md'}
         style={{
           backgroundColor: "white",
           display: "flex",
